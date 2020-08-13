@@ -1,4 +1,7 @@
-# RIBU_sheet_music 🎹- IN PROGRESS #f03c15
+# RIBU_sheet_music 🎹- 
+```diff
+- IN PROGRESS 🔄
+```
 
 ## description:
 
@@ -10,11 +13,3 @@ a website for writing piano sheets, without install any additional software.
 ## Developed by:
 [Ricardo Araujo](https://github.com/araujoricardo)
 [Bruno Bulgaron](https://github.com/brunobulgaron)
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
