@@ -1,4 +1,4 @@
-# RIBU_sheet_music 🎹- 
+# RIBU_sheet_music 🎹
 ```diff
 - IN PROGRESS 🔄
 ```
