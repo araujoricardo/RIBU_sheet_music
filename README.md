@@ -11,5 +11,5 @@
 a website for writing piano sheets, without install any additional software.
 
 ## Developed by:
-[Ricardo Araujo](https://github.com/araujoricardo)
+[Ricardo Araujo](https://github.com/araujoricardo)<br/>
 [Bruno Bulgaron](https://github.com/brunobulgaron)
