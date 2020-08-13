@@ -24,8 +24,6 @@ export default class Teste extends React.Component{
 
 
 
-
-
         // We created an object to store the information about the workspace
         var WorkspaceInformation = {
             // The <canvas> element in which you're going to work
@@ -73,7 +71,7 @@ export default class Teste extends React.Component{
 
         var notes = [
             // A quarter-note C.
-            new VF.StaveNote({clef: "treble", keys: ["c/4"], duration: "8"}),
+            new VF.StaveNote({clef: "treble", keys: ["d/4"], duration: "8"}),
         
             // // A quarter-note D.
             // new VF.StaveNote({clef: "treble", keys: ["e/4"], duration: "8" }),
