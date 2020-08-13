@@ -1,4 +1,4 @@
-# RIBU_sheet_music 🎹- IN PROGRESS `#f03c15`
+# RIBU_sheet_music 🎹- IN PROGRESS #f03c15
 
 ## description:
 
